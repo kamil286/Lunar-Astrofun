@@ -1,0 +1,11 @@
+C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar-Astrofun-API.deps.json
+C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar-Astrofun-API.runtimeconfig.json
+C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar-Astrofun-API.runtimeconfig.dev.json
+C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar-Astrofun-API.dll
+C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar-Astrofun-API.pdb
+C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-API\obj\Debug\netcoreapp2.0\Lunar-Astrofun-API.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-API\obj\Debug\netcoreapp2.0\Lunar-Astrofun-API.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-API\obj\Debug\netcoreapp2.0\Lunar-Astrofun-API.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-API\obj\Debug\netcoreapp2.0\Lunar-Astrofun-API.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-API\obj\Debug\netcoreapp2.0\Lunar-Astrofun-API.dll
+C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-API\obj\Debug\netcoreapp2.0\Lunar-Astrofun-API.pdb

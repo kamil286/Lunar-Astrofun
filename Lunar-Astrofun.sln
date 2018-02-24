@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lunar-Astrofun", "Lunar-Astrofun\Lunar-Astrofun.csproj", "{5C8986D1-1A8C-4002-8BCF-91412797C3DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lunar-Astrofun", "Lunar-Astrofun\Lunar-Astrofun.csproj", "{5C8986D1-1A8C-4002-8BCF-91412797C3DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lunar-Astrofun-Core", "Lunar-Astrofun-Core\Lunar-Astrofun-Core.csproj", "{298D68C8-B2D7-4CA4-874E-183304703EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lunar-Astrofun-Infrastructure", "Lunar-Astrofun-Infrastructure\Lunar-Astrofun-Infrastructure.csproj", "{9013CC46-CC36-4778-8F7E-FAD69C59553B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lunar-Astrofun-Tests", "Lunar-Astrofun-Tests\Lunar-Astrofun-Tests.csproj", "{CE1EFBFF-DFB3-4370-92BE-030AD0A09C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lunar-Astrofun-EndToEnd", "Lunar-Astrofun-EndToEnd\Lunar-Astrofun-EndToEnd.csproj", "{4B4589C1-5CBD-49E6-B9F6-B66C26654BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lunar-Astrofun-API", "Lunar-Astrofun-API\Lunar-Astrofun-API.csproj", "{D4DCF597-9CF3-4523-8886-7630CC309BB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{5C8986D1-1A8C-4002-8BCF-91412797C3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C8986D1-1A8C-4002-8BCF-91412797C3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C8986D1-1A8C-4002-8BCF-91412797C3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{298D68C8-B2D7-4CA4-874E-183304703EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298D68C8-B2D7-4CA4-874E-183304703EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298D68C8-B2D7-4CA4-874E-183304703EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298D68C8-B2D7-4CA4-874E-183304703EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9013CC46-CC36-4778-8F7E-FAD69C59553B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9013CC46-CC36-4778-8F7E-FAD69C59553B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9013CC46-CC36-4778-8F7E-FAD69C59553B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9013CC46-CC36-4778-8F7E-FAD69C59553B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1EFBFF-DFB3-4370-92BE-030AD0A09C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1EFBFF-DFB3-4370-92BE-030AD0A09C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1EFBFF-DFB3-4370-92BE-030AD0A09C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1EFBFF-DFB3-4370-92BE-030AD0A09C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B4589C1-5CBD-49E6-B9F6-B66C26654BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4589C1-5CBD-49E6-B9F6-B66C26654BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4589C1-5CBD-49E6-B9F6-B66C26654BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4589C1-5CBD-49E6-B9F6-B66C26654BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4DCF597-9CF3-4523-8886-7630CC309BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DCF597-9CF3-4523-8886-7630CC309BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DCF597-9CF3-4523-8886-7630CC309BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DCF597-9CF3-4523-8886-7630CC309BB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
