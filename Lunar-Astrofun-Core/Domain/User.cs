@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Collections.Generic;
+using System;
 
 namespace Lunar.Astrofun.Core.Domain
 {
@@ -12,6 +13,7 @@ namespace Lunar.Astrofun.Core.Domain
         public string Salt { get; protected set; }
         public DateTime DateOfBirth { get; protected set; }
         public DateTime CreatedAt { get; protected set; }
+        public IEnumerable<Thumbnail> CreatedThumbanils { get; protected set; }
 
         protected User() { }
 
