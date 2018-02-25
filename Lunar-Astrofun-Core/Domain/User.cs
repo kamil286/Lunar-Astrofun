@@ -17,7 +17,7 @@ namespace Lunar.Astrofun.Core.Domain
 
         protected User() { }
 
-        public User(string email, string username, 
+        public User(string email, string username,
             string password, string salt)
         {
             Id = Guid.NewGuid();
@@ -29,4 +29,3 @@ namespace Lunar.Astrofun.Core.Domain
         }
     }
 }
- 
