@@ -21,7 +21,7 @@ namespace Lunar.Astrofun.Core.Domain
             string password, string salt)
         {
             Id = Guid.NewGuid();
-            Email = email;
+            Email = email.ToLowerInvariant();
             UserName = username;
             Password = password;
             Salt = salt;
