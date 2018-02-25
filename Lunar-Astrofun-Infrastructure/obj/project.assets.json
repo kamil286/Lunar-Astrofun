@@ -197,14 +197,14 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Lunar-Astrofun-Core/1.0.0": {
+      "Lunar.Astrofun.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "compile": {
-          "bin/placeholder/Lunar-Astrofun-Core.dll": {}
+          "bin/placeholder/Lunar.Astrofun.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Lunar-Astrofun-Core.dll": {}
+          "bin/placeholder/Lunar.Astrofun.Core.dll": {}
         }
       }
     }
@@ -667,15 +667,15 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Lunar-Astrofun-Core/1.0.0": {
+    "Lunar.Astrofun.Core/1.0.0": {
       "type": "project",
-      "path": "../Lunar-Astrofun-Core/Lunar-Astrofun-Core.csproj",
-      "msbuildProject": "../Lunar-Astrofun-Core/Lunar-Astrofun-Core.csproj"
+      "path": "../Lunar-Astrofun-Core/Lunar.Astrofun.Core.csproj",
+      "msbuildProject": "../Lunar-Astrofun-Core/Lunar.Astrofun.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Lunar-Astrofun-Core >= 1.0.0",
+      "Lunar.Astrofun.Core >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -689,9 +689,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Infrastructure\\Lunar-Astrofun-Infrastructure.csproj",
-      "projectName": "Lunar-Astrofun-Infrastructure",
-      "projectPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Infrastructure\\Lunar-Astrofun-Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Infrastructure\\Lunar.Astrofun.Infrastructure.csproj",
+      "projectName": "Lunar.Astrofun.Infrastructure",
+      "projectPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Infrastructure\\Lunar.Astrofun.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
@@ -712,8 +712,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Core\\Lunar-Astrofun-Core.csproj": {
-              "projectPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Core\\Lunar-Astrofun-Core.csproj"
+            "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Core\\Lunar.Astrofun.Core.csproj": {
+              "projectPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Core\\Lunar.Astrofun.Core.csproj"
             }
           }
         }

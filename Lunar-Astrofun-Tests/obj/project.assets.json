@@ -673,9 +673,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Tests\\Lunar-Astrofun-Tests.csproj",
-      "projectName": "Lunar-Astrofun-Tests",
-      "projectPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Tests\\Lunar-Astrofun-Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Tests\\Lunar.Astrofun.Tests.csproj",
+      "projectName": "Lunar.Astrofun.Tests",
+      "projectPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Tests\\Lunar.Astrofun.Tests.csproj",
       "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-Tests\\obj\\",
       "projectStyle": "PackageReference",

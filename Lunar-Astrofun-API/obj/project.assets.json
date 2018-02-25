@@ -12544,9 +12544,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-API\\Lunar-Astrofun-API.csproj",
-      "projectName": "Lunar-Astrofun-API",
-      "projectPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-API\\Lunar-Astrofun-API.csproj",
+      "projectUniqueName": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-API\\Lunar.Astrofun.API.csproj",
+      "projectName": "Lunar.Astrofun.API",
+      "projectPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-API\\Lunar.Astrofun.API.csproj",
       "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-API\\obj\\",
       "projectStyle": "PackageReference",

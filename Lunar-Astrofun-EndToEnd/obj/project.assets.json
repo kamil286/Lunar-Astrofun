@@ -673,9 +673,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-EndToEnd\\Lunar-Astrofun-EndToEnd.csproj",
-      "projectName": "Lunar-Astrofun-EndToEnd",
-      "projectPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-EndToEnd\\Lunar-Astrofun-EndToEnd.csproj",
+      "projectUniqueName": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-EndToEnd\\Lunar.Astrofun.EndToEnd.csproj",
+      "projectName": "Lunar.Astrofun.EndToEnd",
+      "projectPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-EndToEnd\\Lunar.Astrofun.EndToEnd.csproj",
       "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Kamil\\source\\repos\\lunar-astrofun-main\\Lunar-Astrofun-EndToEnd\\obj\\",
       "projectStyle": "PackageReference",
