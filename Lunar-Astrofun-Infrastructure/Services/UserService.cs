@@ -1,8 +1,6 @@
-﻿using Lunar.Astrofun.Core.Repositories;
+﻿using System;
+using Lunar.Astrofun.Core.Repositories;
 using Lunar.Astrofun.Infrastructure.DTO;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Lunar.Astrofun.Infrastructure.Services
 {

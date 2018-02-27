@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Lunar.Astrofun.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Lunar.Astrofun.Core": "1.0.0"
+        },
+        "runtime": {
+          "Lunar.Astrofun.Infrastructure.dll": {}
+        }
+      },
+      "Lunar.Astrofun.Core/1.0.0": {
+        "runtime": {
+          "Lunar.Astrofun.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lunar.Astrofun.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lunar.Astrofun.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
