@@ -32,7 +32,7 @@ namespace Lunar.Astrofun.Infrastructure.Services
             }
 
             var salt = Guid.NewGuid().ToString("N");
-            user = new Core.Domain.User(email, username, password, salt);
+            user = new User(email, username, password, salt);
             _userRepository.Add(user);
         }
     }

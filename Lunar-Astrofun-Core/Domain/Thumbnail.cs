@@ -17,13 +17,12 @@ namespace Lunar.Astrofun.Core.Domain
         protected Thumbnail() {}
 
         public Thumbnail (string title, string category,
-            string content, User createdBy)
+            string content)
         {
             Id = Guid.NewGuid();
             Title = title;
             Category = category;
             Content = content;
-            CreatedBy = createdBy;
             CreatedAt = DateTime.UtcNow;
         }
     }
