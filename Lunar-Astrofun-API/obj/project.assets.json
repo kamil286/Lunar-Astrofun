@@ -4783,6 +4783,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
+          "AutoMapper": "6.2.2",
           "Lunar.Astrofun.Core": "1.0.0"
         },
         "compile": {
