@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Lunar.Astrofun.Infrastructure.Services;
 using Lunar.Astrofun.Core.Repositories;
 using Lunar.Astrofun.Infrastructure.Repositories;
+using Lunar.Astrofun.Infrastructure.Mappers;
 
 namespace Lunar_Astrofun_API
 {
@@ -21,6 +22,7 @@ namespace Lunar_Astrofun_API
         {
             services.AddScoped<IUserRepository, InMemoryUserRepository>();
             services.AddScoped<IUserService, UserService>();
+            services.AddSingleton(AutoMapperConfig.Initialize());
             services.AddMvc();
         }
 
