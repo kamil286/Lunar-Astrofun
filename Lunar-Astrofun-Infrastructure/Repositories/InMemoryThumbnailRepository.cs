@@ -1,34 +1,35 @@
 ﻿using Lunar.Astrofun.Core.Domain;
+using Lunar.Astrofun.Core.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace Lunar.Astrofun.Infrastructure.Repositories
 {
-    public class InMemoryThumbnailRepository
+    public class InMemoryThumbnailRepository: IThumbnailRepository
     {
-        public static ISet<Thumbnail> _thumbnail = new HashSet<Thumbnail>()
+        public static ISet<Thumbnail> _thumbnails = new HashSet<Thumbnail>()
         {
-            new Thumbnail("Mars", "Cosmos", "Mars is the one of the best planet"),
-            new Thumbnail("Shopenchauer", "Literature", " ... "),
+            new Thumbnail(Guid.NewGuid(), "Mars", "Cosmos", "Mars is the one of the best planet."),
+            new Thumbnail(Guid.NewGuid(), "Shopenchauer", "Literature", " Shophenchauer was one of the most famus authors."),
         };
 
         public void Add(Thumbnail thumbnail)
-            => _thumbnail.Add(thumbnail);
+            => _thumbnails.Add(thumbnail);
 
         public Thumbnail Get(Guid id)
-            => _thumbnail.Single(x => x.Id == id);
+            => _thumbnails.Single(x => x.Id == id);
 
         public IEnumerable<Thumbnail> GetAll()
-            => _thumbnail;
+            => _thumbnails;
 
         public void Remove(Guid id)
         {
-            var user = Get(id);
-            _thumbnail.Remove(user);
+            var thumbnail = Get(id);
+            _thumbnails.Remove(thumbnail);
         }
 
         public void Update(Thumbnail user) { }
     }
 }
-}
+

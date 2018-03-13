@@ -12,6 +12,8 @@ namespace Lunar.Astrofun.Infrastructure.Mappers
             {
                 cfg.CreateMap<IUserRepository, InMemoryUserRepository>();
                 cfg.CreateMap<IUserService, UserService>();
+                cfg.CreateMap<IThumbnailRepository, InMemoryThumbnailRepository>();
+                cfg.CreateMap<IThumbanilService, ThumbnailService>();
             })
             .CreateMapper();
     }
