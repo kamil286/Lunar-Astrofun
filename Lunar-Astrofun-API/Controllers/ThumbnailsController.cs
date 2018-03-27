@@ -1,10 +1,9 @@
-﻿using Lunar.Astrofun.Infrastructure.DTO;
+﻿using Lunar.Astrofun.Infrastructure.Commands.Thumbnails;
+using Lunar.Astrofun.Infrastructure.DTO;
 using Lunar.Astrofun.Infrastructure.Services;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Lunar.Astrofun.API.Controllers
 {
@@ -18,9 +17,19 @@ namespace Lunar.Astrofun.API.Controllers
             _thumbnailService = thumbanilService;
         }
 
+        [HttpGet("{title}")]
+        public ThumbnailDto GetByTitle(string title)
+         => _thumbnailService.GetByTitle(title);
+
+
         [HttpGet]
         public IEnumerable<ThumbnailDto> GetAll()
             => _thumbnailService.GetAll();
-   
+
+        [HttpPost("")]
+        public void Post([FromBody] ThumbnailCreation request)
+        {
+            _thumbnailService.Create(Guid.NewGuid(), request.Title, request.Category, request.Content);
+        }
     }
 }

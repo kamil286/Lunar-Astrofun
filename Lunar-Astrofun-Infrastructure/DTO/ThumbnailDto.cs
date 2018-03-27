@@ -7,7 +7,7 @@ namespace Lunar.Astrofun.Infrastructure.DTO
 {
     public class ThumbnailDto
     {
-        public Guid Id { get; set;}
+        public Guid Id { get; protected set;}
         public string Title { get; protected set; }
         public string Category { get; protected set; }
         public string Content { get; protected set; }

@@ -36,6 +36,12 @@ namespace Lunar.Astrofun.Infrastructure.Services
             return _mapper.Map<Thumbnail, ThumbnailDto>(thumbnail);
         }
 
+        public ThumbnailDto GetByTitle(string title)
+        {
+            var thumbnail = _thumbnailRepository.GetByTitle(title);
+            return _mapper.Map<Thumbnail, ThumbnailDto>(thumbnail);
+        }
+
         IEnumerable<ThumbnailDto> IThumbanilService.GetAll()
         {
             var thumbnails = _thumbnailRepository.GetAll();

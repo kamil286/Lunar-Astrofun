@@ -18,7 +18,20 @@ namespace Lunar.Astrofun.Infrastructure.Repositories
             => _thumbnails.Add(thumbnail);
 
         public Thumbnail Get(Guid id)
-            => _thumbnails.Single(x => x.Id == id);
+        {
+            Thumbnail trueThumbnail = null;
+            foreach(var thumbnail in _thumbnails)
+            {
+                if (thumbnail.Id == id)
+                {
+                    trueThumbnail = thumbnail;
+                }
+            }
+            return trueThumbnail;
+        }
+
+        public Thumbnail GetByTitle(string title)
+            => _thumbnails.Single(x => x.Title == title);
 
         public IEnumerable<Thumbnail> GetAll()
             => _thumbnails;

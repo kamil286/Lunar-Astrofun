@@ -12,8 +12,4 @@
     <ProjectReference Include="..\Lunar-Astrofun-Core\Lunar.Astrofun.Core.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Commands\Users\" />
-  </ItemGroup>
-
 </Project>

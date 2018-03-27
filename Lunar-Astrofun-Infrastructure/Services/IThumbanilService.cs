@@ -8,6 +8,7 @@ namespace Lunar.Astrofun.Infrastructure.Services
     public interface IThumbanilService
     {
         ThumbnailDto Get(Guid id);
+        ThumbnailDto GetByTitle(string title);
         IEnumerable<ThumbnailDto> GetAll();
         void Create(Guid id, string title, string category, string content);
     }
