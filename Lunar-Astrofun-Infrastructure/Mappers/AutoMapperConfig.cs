@@ -2,6 +2,7 @@
 using Lunar.Astrofun.Core.Repositories;
 using Lunar.Astrofun.Infrastructure.Repositories;
 using Lunar.Astrofun.Infrastructure.Services;
+using Lunar.Astrofun.Infrastructure.Services.Interfaces;
 
 namespace Lunar.Astrofun.Infrastructure.Mappers
 {
@@ -14,6 +15,8 @@ namespace Lunar.Astrofun.Infrastructure.Mappers
                 cfg.CreateMap<IUserService, UserService>();
                 cfg.CreateMap<IThumbnailRepository, InMemoryThumbnailRepository>();
                 cfg.CreateMap<IThumbanilService, ThumbnailService>();
+                cfg.CreateMap<IAdministratorRepository, InMemoryAdmistratorRepository>();
+                cfg.CreateMap<IAdministratorService, AdministratorService>();
             })
             .CreateMapper();
     }
