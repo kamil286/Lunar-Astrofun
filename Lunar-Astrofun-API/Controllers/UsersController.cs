@@ -2,6 +2,7 @@
 using Lunar.Astrofun.Infrastructure.DTO;
 using Lunar.Astrofun.Infrastructure.Services;
 using Lunar.Astrofun.Infrastructure.Commands.Users;
+using System.Collections.Generic;
 
 namespace Lunar.Astrofun.API.Controllers
 {
@@ -18,6 +19,10 @@ namespace Lunar.Astrofun.API.Controllers
         [HttpGet("{email}")]
         public UserDto Get(string email)
             => _userService.Get(email);
+
+        [HttpGet]
+        public IEnumerable<UserDto> GetAll()
+            => _userService.GetAll();
 
         [HttpPost("")]
         public void Post([FromBody]CreateUser request)

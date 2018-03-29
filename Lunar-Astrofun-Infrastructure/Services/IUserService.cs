@@ -8,6 +8,7 @@ namespace Lunar.Astrofun.Infrastructure.Services
     public interface IUserService
     {
         UserDto Get(string email);
+        IEnumerable<UserDto> GetAll();
         void Register(string email, string username, string password);
     }
 }

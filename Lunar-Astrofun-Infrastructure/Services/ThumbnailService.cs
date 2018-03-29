@@ -20,7 +20,7 @@ namespace Lunar.Astrofun.Infrastructure.Services
 
         public void Create(Guid id, string title, string category, string content)
         {
-            var thumbnail = _thumbnailRepository.Get(id);
+            Thumbnail thumbnail = _thumbnailRepository.Get(id);
             if (thumbnail != null)
             {
                 throw new Exception($"Thumbnail with this id {id} already exist!");
@@ -32,23 +32,23 @@ namespace Lunar.Astrofun.Infrastructure.Services
 
         public ThumbnailDto Get(Guid id)
         {
-            var thumbnail = _thumbnailRepository.Get(id);
+            Thumbnail thumbnail = _thumbnailRepository.Get(id);
             return _mapper.Map<Thumbnail, ThumbnailDto>(thumbnail);
         }
 
         public ThumbnailDto GetByTitle(string title)
         {
-            var thumbnail = _thumbnailRepository.GetByTitle(title);
+            Thumbnail thumbnail = _thumbnailRepository.GetByTitle(title);
             return _mapper.Map<Thumbnail, ThumbnailDto>(thumbnail);
         }
 
         IEnumerable<ThumbnailDto> IThumbanilService.GetAll()
         {
-            var thumbnails = _thumbnailRepository.GetAll();
-            var thumbnailsCollections = new HashSet<ThumbnailDto>();
-            foreach (var thumbnail in thumbnails)
+            IEnumerable<Thumbnail> thumbnails = _thumbnailRepository.GetAll();
+            ISet<ThumbnailDto> thumbnailsCollections = new HashSet<ThumbnailDto>();
+            foreach (Thumbnail thumbnail in thumbnails)
             {
-                var thumbnailDto = _mapper.Map<Thumbnail, ThumbnailDto>(thumbnail);
+                ThumbnailDto thumbnailDto = _mapper.Map<Thumbnail, ThumbnailDto>(thumbnail);
                 thumbnailsCollections.Add(thumbnailDto);
             }
 
