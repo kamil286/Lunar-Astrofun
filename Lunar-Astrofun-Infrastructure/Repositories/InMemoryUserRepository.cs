@@ -19,10 +19,10 @@ namespace Lunar.Astrofun.Infrastructure.Repositories
             => _users.Add(user);
 
         public User Get(string email)
-            => _users.Single(x => x.Email == email.ToLowerInvariant());
+            => _users.FirstOrDefault(x => x.Email == email.ToLowerInvariant());
 
         public User Get(Guid id)
-            => _users.Single(x => x.Id == id);
+            => _users.FirstOrDefault(x => x.Id == id);
 
         public IEnumerable<User> GetAll()
             => _users;

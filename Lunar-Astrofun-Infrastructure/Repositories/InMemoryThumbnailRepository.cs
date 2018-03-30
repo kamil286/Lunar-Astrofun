@@ -21,7 +21,7 @@ namespace Lunar.Astrofun.Infrastructure.Repositories
             => _thumbnails.FirstOrDefault(x => x.Id.Equals(id));
 
         public Thumbnail GetByTitle(string title)
-            => _thumbnails.Single(x => x.Title == title);
+            => _thumbnails.FirstOrDefault(x => x.Title == title);
 
         public IEnumerable<Thumbnail> GetAll()
             => _thumbnails;
