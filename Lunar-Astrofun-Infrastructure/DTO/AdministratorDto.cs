@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Lunar.Astrofun.Infrastructure.DTO
 {
-    class AdministratorDto
+    public class AdministratorDto
     {
+
     }
 }

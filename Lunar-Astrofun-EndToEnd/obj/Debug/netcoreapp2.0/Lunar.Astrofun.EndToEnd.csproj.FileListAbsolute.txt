@@ -6,3 +6,4 @@ C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-EndToEnd\obj\Debu
 C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-EndToEnd\obj\Debug\netcoreapp2.0\Lunar.Astrofun.EndToEnd.AssemblyInfo.cs
 C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-EndToEnd\obj\Debug\netcoreapp2.0\Lunar.Astrofun.EndToEnd.dll
 C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-EndToEnd\obj\Debug\netcoreapp2.0\Lunar.Astrofun.EndToEnd.pdb
+C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-EndToEnd\obj\Debug\netcoreapp2.0\Lunar.Astrofun.EndToEnd.csprojResolveAssemblyReference.cache

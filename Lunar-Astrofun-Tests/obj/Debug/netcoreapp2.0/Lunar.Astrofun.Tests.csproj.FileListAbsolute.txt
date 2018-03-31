@@ -6,3 +6,4 @@ C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-Tests\obj\Debug\n
 C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-Tests\obj\Debug\netcoreapp2.0\Lunar.Astrofun.Tests.AssemblyInfo.cs
 C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-Tests\obj\Debug\netcoreapp2.0\Lunar.Astrofun.Tests.dll
 C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-Tests\obj\Debug\netcoreapp2.0\Lunar.Astrofun.Tests.pdb
+C:\Users\Kamil\source\repos\lunar-astrofun-main\Lunar-Astrofun-Tests\obj\Debug\netcoreapp2.0\Lunar.Astrofun.Tests.csprojResolveAssemblyReference.cache
