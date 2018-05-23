@@ -4,16 +4,16 @@ using System.Text;
 
 namespace Lunar.Astrofun.Core.Domain
 {
-    public class Admin
+    public class Administrator
     {
         public Guid Id { get; protected set; }
         public User AdminPersona { get; protected set; }
         public IEnumerable<User> RegisteredUsers { get; protected set; }
         public IEnumerable<Thumbnail> CreatedThumbnails { get; protected set; }
 
-        protected Admin() { }
+        protected Administrator() { }
 
-        public Admin(User adminPersona, IEnumerable<User> registeredUsers,
+        public Administrator(User adminPersona, IEnumerable<User> registeredUsers,
             IEnumerable<Thumbnail> createdThumbnails)
         {
             Id = Guid.NewGuid();
