@@ -27,14 +27,7 @@ namespace Lunar.Astrofun.Infrastructure.Services
         public IEnumerable<UserDto> GetAll()
         {
             IEnumerable<User> users = _userRepository.GetAll();
-            ISet<UserDto> usersDto = new HashSet<UserDto>();
-            foreach (User user in users)
-            {
-                UserDto userDto = _mapper.Map<User, UserDto>(user);
-                usersDto.Add(userDto);
-            }
-
-            return usersDto;
+            return _mapper.Map<IEnumerable<User>, IEnumerable<UserDto>>(users);
         }
 
         public void Register(string email, string username, string password)

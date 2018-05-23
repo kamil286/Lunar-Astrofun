@@ -6,6 +6,5 @@ namespace Lunar.Astrofun.Core.Repositories
 {
     public interface IAdministratorRepository
     {
-
     }
 }

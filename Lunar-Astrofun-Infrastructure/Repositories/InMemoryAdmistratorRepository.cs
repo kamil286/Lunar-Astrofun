@@ -7,6 +7,5 @@ namespace Lunar.Astrofun.Infrastructure.Repositories
 {
     public class InMemoryAdmistratorRepository: IAdministratorRepository
     {
-
     }
 }
