@@ -28,6 +28,7 @@ namespace Lunar.Astrofun.Infrastructure.Services
 
         public IEnumerable<AdministratorDto> GetAll()
         {
+            //Test branch.
             throw new NotImplementedException();
         }
 
