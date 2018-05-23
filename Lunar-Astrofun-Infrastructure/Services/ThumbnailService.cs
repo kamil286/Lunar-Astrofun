@@ -45,14 +45,7 @@ namespace Lunar.Astrofun.Infrastructure.Services
         IEnumerable<ThumbnailDto> IThumbanilService.GetAll()
         {
             IEnumerable<Thumbnail> thumbnails = _thumbnailRepository.GetAll();
-            ISet<ThumbnailDto> thumbnailsCollections = new HashSet<ThumbnailDto>();
-            foreach (Thumbnail thumbnail in thumbnails)
-            {
-                ThumbnailDto thumbnailDto = _mapper.Map<Thumbnail, ThumbnailDto>(thumbnail);
-                thumbnailsCollections.Add(thumbnailDto);
-            }
-
-            return thumbnailsCollections;
+            return _mapper.Map<IEnumerable<Thumbnail>, IEnumerable<ThumbnailDto>>(thumbnails);
         }
     }
 }
