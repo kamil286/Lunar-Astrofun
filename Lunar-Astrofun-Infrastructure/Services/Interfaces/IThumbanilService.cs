@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lunar.Astrofun.Infrastructure.Services
 {
-    public interface IThumbanilService
+    public interface IThumbnailService
     {
         ThumbnailDto Get(Guid id);
         ThumbnailDto GetByTitle(string title);

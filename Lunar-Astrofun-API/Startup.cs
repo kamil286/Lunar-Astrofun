@@ -24,7 +24,7 @@ namespace Lunar_Astrofun_API
             services.AddScoped<IUserRepository, InMemoryUserRepository>();
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IThumbnailRepository, InMemoryThumbnailRepository>();
-            services.AddScoped<IThumbanilService, ThumbnailService>();
+            services.AddScoped<IThumbnailService, ThumbnailService>();
             services.AddScoped<IAdministratorRepository, InMemoryAdmistratorRepository>();
             services.AddScoped<IAdministratorService, AdministratorService>();
             services.AddSingleton(AutoMapperConfig.Initialize());

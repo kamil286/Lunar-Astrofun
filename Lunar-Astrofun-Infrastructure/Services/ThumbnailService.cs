@@ -7,7 +7,7 @@ using Lunar.Astrofun.Infrastructure.DTO;
 
 namespace Lunar.Astrofun.Infrastructure.Services
 {
-    public class ThumbnailService : IThumbanilService
+    public class ThumbnailService : IThumbnailService
     {
         private readonly IThumbnailRepository _thumbnailRepository;
         private readonly IMapper _mapper;
@@ -41,8 +41,7 @@ namespace Lunar.Astrofun.Infrastructure.Services
             Thumbnail thumbnail = _thumbnailRepository.GetByTitle(title);
             return _mapper.Map<Thumbnail, ThumbnailDto>(thumbnail);
         }
-
-        IEnumerable<ThumbnailDto> IThumbanilService.GetAll()
+        IEnumerable<ThumbnailDto> IThumbnailService.GetAll()
         {
             IEnumerable<Thumbnail> thumbnails = _thumbnailRepository.GetAll();
             return _mapper.Map<IEnumerable<Thumbnail>, IEnumerable<ThumbnailDto>>(thumbnails);

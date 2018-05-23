@@ -10,9 +10,9 @@ namespace Lunar.Astrofun.API.Controllers
     [Route("api/[controller]")]
     public class ThumbnailsController: Controller
     {
-        private readonly IThumbanilService _thumbnailService;
+        private readonly IThumbnailService _thumbnailService;
 
-        public ThumbnailsController(IThumbanilService thumbanilService)
+        public ThumbnailsController(IThumbnailService thumbanilService)
         {
             _thumbnailService = thumbanilService;
         }
