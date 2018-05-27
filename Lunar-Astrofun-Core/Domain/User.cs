@@ -11,6 +11,7 @@ namespace Lunar.Astrofun.Core.Domain
         public string Email { get; protected set; }
         public string Password { get; protected set; }
         public string Salt { get; protected set; }
+        public string Role {get; protected set;}
         public DateTime DateOfBirth { get; protected set; }
         public DateTime CreatedAt { get; protected set; }
         public IEnumerable<Thumbnail> CreatedThumbanils { get; protected set; }
