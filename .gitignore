@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.csprojResolveAssemblyReference.cache
+Lunar-Astrofun-Infrastructure/obj/Debug/netcoreapp2.0/Lunar.Astrofun.Infrastructure.csprojResolveAssemblyReference.cache

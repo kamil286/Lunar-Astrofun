@@ -27,7 +27,7 @@ namespace Lunar.Astrofun.API.Controllers
             => _thumbnailService.GetAll();
 
         [HttpPost("")]
-        public void Post([FromBody] ThumbnailCreation request)
+        public void Post([FromBody] CreateThumbnail request)
         {
             _thumbnailService.Create(Guid.NewGuid(), request.Title, request.Category, request.Content);
         }

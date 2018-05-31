@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lunar.Astrofun.Infrastructure.Commands.Thumbnails
 {
-    public class ThumbnailCreation: ICommand
+    public class CreateThumbnail: ICommand
     {
         public string Title { get; set; }
         public string Category { get; set; }
