@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Lunar.Astrofun.Core.Domain
 {
-    public class User
+  public class User
     {
         public Guid Id { get; protected set; }
         public string UserName { get; protected set; }

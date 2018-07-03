@@ -5,13 +5,8 @@ using System.Text;
 
 namespace Lunar.Astrofun.Core.Repositories
 {
-    public interface IThumbnailRepository
+    public interface IThumbnailRepository: IBaseRepository<Thumbnail>
     {
-        Thumbnail Get(Guid id);
         Thumbnail GetByTitle(string title);
-        IEnumerable<Thumbnail> GetAll();
-        void Add(Thumbnail thumbnail);
-        void Update(Thumbnail thumbnail);
-        void Remove(Guid id);
     }
 }

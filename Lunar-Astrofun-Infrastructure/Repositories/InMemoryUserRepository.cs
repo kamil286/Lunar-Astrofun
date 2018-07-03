@@ -21,7 +21,7 @@ namespace Lunar.Astrofun.Infrastructure.Repositories
         public User Get(string email)
             => _users.FirstOrDefault(x => x.Email == email.ToLowerInvariant());
 
-        public User Get(Guid id)
+        public User GetById(Guid id)
             => _users.FirstOrDefault(x => x.Id == id);
 
         public IEnumerable<User> GetAll()
@@ -29,10 +29,13 @@ namespace Lunar.Astrofun.Infrastructure.Repositories
 
         public void Remove(Guid id)
         {
-            var user = Get(id);
+            var user = GetById(id);
             _users.Remove(user);
         }
 
         public void Update(User user) { }
-    }
+
+        public User GetByEmail(string email)
+        => _users.FirstOrDefault(x => x.Email == email);
+  }
 }

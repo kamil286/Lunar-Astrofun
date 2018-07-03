@@ -17,7 +17,7 @@ namespace Lunar.Astrofun.Infrastructure.Repositories
         public void Add(Thumbnail thumbnail)
             => _thumbnails.Add(thumbnail);
 
-        public Thumbnail Get(Guid id)
+        public Thumbnail GetById(Guid id)
             => _thumbnails.FirstOrDefault(x => x.Id.Equals(id));
 
         public Thumbnail GetByTitle(string title)
@@ -28,11 +28,11 @@ namespace Lunar.Astrofun.Infrastructure.Repositories
 
         public void Remove(Guid id)
         {
-            var thumbnail = Get(id);
+            var thumbnail = GetById(id);
             _thumbnails.Remove(thumbnail);
         }
 
         public void Update(Thumbnail user) { }
-    }
+  }
 }
 
