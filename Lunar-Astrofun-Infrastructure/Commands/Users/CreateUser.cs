@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Lunar.Astrofun.Infrastructure.Commands.Users
+﻿namespace Lunar.Astrofun.Infrastructure.Commands.Users
 {
     public class CreateUser : ICommand
     {

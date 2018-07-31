@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Lunar.Astrofun.Infrastructure.Commands.Thumbnails
+﻿namespace Lunar.Astrofun.Infrastructure.Commands.Thumbnails
 {
     public class ThumbnailCreation: ICommand
     {
