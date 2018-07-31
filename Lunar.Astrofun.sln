@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lunar.Astrofun", "Lunar-Astrofun\Lunar.Astrofun.csproj", "{5C8986D1-1A8C-4002-8BCF-91412797C3DD}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lunar.Astrofun.Core", "Lunar-Astrofun-Core\Lunar.Astrofun.Core.csproj", "{298D68C8-B2D7-4CA4-874E-183304703EA7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lunar.Astrofun.Infrastructure", "Lunar-Astrofun-Infrastructure\Lunar.Astrofun.Infrastructure.csproj", "{9013CC46-CC36-4778-8F7E-FAD69C59553B}"
@@ -21,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5C8986D1-1A8C-4002-8BCF-91412797C3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5C8986D1-1A8C-4002-8BCF-91412797C3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5C8986D1-1A8C-4002-8BCF-91412797C3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5C8986D1-1A8C-4002-8BCF-91412797C3DD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{298D68C8-B2D7-4CA4-874E-183304703EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{298D68C8-B2D7-4CA4-874E-183304703EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{298D68C8-B2D7-4CA4-874E-183304703EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU

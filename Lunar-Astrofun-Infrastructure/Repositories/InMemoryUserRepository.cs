@@ -8,7 +8,7 @@ namespace Lunar.Astrofun.Infrastructure.Repositories
 {
     public class InMemoryUserRepository : IUserRepository
     {
-        public static ISet<User> _users = new HashSet<User>()
+        private static ISet<User> _users = new HashSet<User>()
         {
             new User("user1@email.com", "user1", "secret", "salt"),
             new User("user2@email.com", "user2", "secret", "salt"),
@@ -33,6 +33,7 @@ namespace Lunar.Astrofun.Infrastructure.Repositories
             _users.Remove(user);
         }
 
-        public void Update(User user) { }
+        public void Update(User user)
+        =>  throw new NotImplementedException();
     }
 }
