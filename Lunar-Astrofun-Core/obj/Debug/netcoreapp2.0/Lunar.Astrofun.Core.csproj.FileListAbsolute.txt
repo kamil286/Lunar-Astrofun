@@ -16,3 +16,12 @@ C:/Users/Kamil/source/repos/lunar-astrofun-main/Lunar-Astrofun-Core/obj/Debug/ne
 /home/kamil/Projects/mainprojects/Lunar-For-Linux/Lunar-Astrofun/Lunar-Astrofun-Core/obj/Debug/netcoreapp2.0/Lunar.Astrofun.Core.AssemblyInfo.cs
 /home/kamil/Projects/mainprojects/Lunar-For-Linux/Lunar-Astrofun/Lunar-Astrofun-Core/obj/Debug/netcoreapp2.0/Lunar.Astrofun.Core.dll
 /home/kamil/Projects/mainprojects/Lunar-For-Linux/Lunar-Astrofun/Lunar-Astrofun-Core/obj/Debug/netcoreapp2.0/Lunar.Astrofun.Core.pdb
+C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-Core\bin\Debug\netcoreapp2.0\Lunar.Astrofun.Core.deps.json
+C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-Core\bin\Debug\netcoreapp2.0\Lunar.Astrofun.Core.dll
+C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-Core\bin\Debug\netcoreapp2.0\Lunar.Astrofun.Core.pdb
+C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-Core\obj\Debug\netcoreapp2.0\Lunar.Astrofun.Core.csprojAssemblyReference.cache
+C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-Core\obj\Debug\netcoreapp2.0\Lunar.Astrofun.Core.csproj.CoreCompileInputs.cache
+C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-Core\obj\Debug\netcoreapp2.0\Lunar.Astrofun.Core.AssemblyInfoInputs.cache
+C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-Core\obj\Debug\netcoreapp2.0\Lunar.Astrofun.Core.AssemblyInfo.cs
+C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-Core\obj\Debug\netcoreapp2.0\Lunar.Astrofun.Core.dll
+C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-Core\obj\Debug\netcoreapp2.0\Lunar.Astrofun.Core.pdb

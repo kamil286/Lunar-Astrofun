@@ -664,28 +664,30 @@
     ]
   },
   "packageFolders": {
-    "/home/kamil/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\kamil\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kamil/Projects/mainprojects/Lunar-For-Linux/Lunar-Astrofun/Lunar-Astrofun-EndToEnd/Lunar.Astrofun.EndToEnd.csproj",
+      "projectUniqueName": "C:\\Users\\kamil\\Documents\\Projects\\mainprojects\\Lunar-Astrofun\\Lunar-Astrofun-EndToEnd\\Lunar.Astrofun.EndToEnd.csproj",
       "projectName": "Lunar.Astrofun.EndToEnd",
-      "projectPath": "/home/kamil/Projects/mainprojects/Lunar-For-Linux/Lunar-Astrofun/Lunar-Astrofun-EndToEnd/Lunar.Astrofun.EndToEnd.csproj",
-      "packagesPath": "/home/kamil/.nuget/packages/",
-      "outputPath": "/home/kamil/Projects/mainprojects/Lunar-For-Linux/Lunar-Astrofun/Lunar-Astrofun-EndToEnd/obj/",
+      "projectPath": "C:\\Users\\kamil\\Documents\\Projects\\mainprojects\\Lunar-Astrofun\\Lunar-Astrofun-EndToEnd\\Lunar.Astrofun.EndToEnd.csproj",
+      "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kamil\\Documents\\Projects\\mainprojects\\Lunar-Astrofun\\Lunar-Astrofun-EndToEnd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/kamil/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
