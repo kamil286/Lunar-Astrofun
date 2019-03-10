@@ -515,10 +515,12 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.0.0": {
-      "sha512": "VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "sha512": "CCf4NjmDOoise7FAij2VPuHIgKKsu696vkTwhOkPVQfLsTmB2WLFfQ4yeO5Udtk8FD636UBMx6Y9eovzJKT76A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -664,30 +666,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kamil\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/kamil/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kamil\\Documents\\Projects\\mainprojects\\Lunar-Astrofun\\Lunar-Astrofun-EndToEnd\\Lunar.Astrofun.EndToEnd.csproj",
+      "projectUniqueName": "/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-EndToEnd/Lunar.Astrofun.EndToEnd.csproj",
       "projectName": "Lunar.Astrofun.EndToEnd",
-      "projectPath": "C:\\Users\\kamil\\Documents\\Projects\\mainprojects\\Lunar-Astrofun\\Lunar-Astrofun-EndToEnd\\Lunar.Astrofun.EndToEnd.csproj",
-      "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kamil\\Documents\\Projects\\mainprojects\\Lunar-Astrofun\\Lunar-Astrofun-EndToEnd\\obj\\",
+      "projectPath": "/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-EndToEnd/Lunar.Astrofun.EndToEnd.csproj",
+      "packagesPath": "/home/kamil/.nuget/packages/",
+      "outputPath": "/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-EndToEnd/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/kamil/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

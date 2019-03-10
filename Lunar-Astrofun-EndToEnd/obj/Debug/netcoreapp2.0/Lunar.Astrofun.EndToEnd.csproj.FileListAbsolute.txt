@@ -16,3 +16,12 @@ C:/Users/Kamil/source/repos/lunar-astrofun-main/Lunar-Astrofun-EndToEnd/obj/Debu
 /home/kamil/Projects/mainprojects/Lunar-For-Linux/Lunar-Astrofun/Lunar-Astrofun-EndToEnd/obj/Debug/netcoreapp2.0/Lunar.Astrofun.EndToEnd.AssemblyInfo.cs
 /home/kamil/Projects/mainprojects/Lunar-For-Linux/Lunar-Astrofun/Lunar-Astrofun-EndToEnd/obj/Debug/netcoreapp2.0/Lunar.Astrofun.EndToEnd.dll
 /home/kamil/Projects/mainprojects/Lunar-For-Linux/Lunar-Astrofun/Lunar-Astrofun-EndToEnd/obj/Debug/netcoreapp2.0/Lunar.Astrofun.EndToEnd.pdb
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-EndToEnd/bin/Debug/netcoreapp2.0/Lunar.Astrofun.EndToEnd.deps.json
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-EndToEnd/bin/Debug/netcoreapp2.0/Lunar.Astrofun.EndToEnd.dll
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-EndToEnd/bin/Debug/netcoreapp2.0/Lunar.Astrofun.EndToEnd.pdb
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-EndToEnd/obj/Debug/netcoreapp2.0/Lunar.Astrofun.EndToEnd.csprojAssemblyReference.cache
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-EndToEnd/obj/Debug/netcoreapp2.0/Lunar.Astrofun.EndToEnd.csproj.CoreCompileInputs.cache
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-EndToEnd/obj/Debug/netcoreapp2.0/Lunar.Astrofun.EndToEnd.AssemblyInfoInputs.cache
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-EndToEnd/obj/Debug/netcoreapp2.0/Lunar.Astrofun.EndToEnd.AssemblyInfo.cs
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-EndToEnd/obj/Debug/netcoreapp2.0/Lunar.Astrofun.EndToEnd.dll
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-EndToEnd/obj/Debug/netcoreapp2.0/Lunar.Astrofun.EndToEnd.pdb

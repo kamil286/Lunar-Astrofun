@@ -28,19 +28,35 @@ C:/Users/Kamil/source/repos/lunar-astrofun-main/Lunar-Astrofun-API/obj/Debug/net
 /home/kamil/Projects/mainprojects/Lunar-For-Linux/Lunar-Astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.AssemblyInfo.cs
 /home/kamil/Projects/mainprojects/Lunar-For-Linux/Lunar-Astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.dll
 /home/kamil/Projects/mainprojects/Lunar-For-Linux/Lunar-Astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.pdb
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\obj\Debug\netcoreapp2.0\Lunar.Astrofun.API.dll
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\obj\Debug\netcoreapp2.0\Lunar.Astrofun.API.pdb
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar.Astrofun.API.deps.json
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar.Astrofun.API.runtimeconfig.json
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar.Astrofun.API.runtimeconfig.dev.json
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar.Astrofun.API.dll
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar.Astrofun.API.pdb
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar.Astrofun.Core.dll
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar.Astrofun.Infrastructure.dll
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar.Astrofun.Core.pdb
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\bin\Debug\netcoreapp2.0\Lunar.Astrofun.Infrastructure.pdb
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\obj\Debug\netcoreapp2.0\Lunar.Astrofun.API.csprojAssemblyReference.cache
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\obj\Debug\netcoreapp2.0\Lunar.Astrofun.API.csproj.CoreCompileInputs.cache
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\obj\Debug\netcoreapp2.0\Lunar.Astrofun.API.AssemblyInfoInputs.cache
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\obj\Debug\netcoreapp2.0\Lunar.Astrofun.API.AssemblyInfo.cs
-C:\Documents and Settings\kamil\Documents\Projects\mainprojects\Lunar-Astrofun\Lunar-Astrofun-API\obj\Debug\netcoreapp2.0\Lunar.Astrofun.API.csproj.CopyComplete
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.dll
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.pdb
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.API.deps.json
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.API.runtimeconfig.json
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.API.runtimeconfig.dev.json
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.API.dll
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.API.pdb
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.Core.dll
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.Infrastructure.dll
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.Core.pdb
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.Infrastructure.pdb
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.csprojAssemblyReference.cache
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.csproj.CoreCompileInputs.cache
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.AssemblyInfoInputs.cache
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.AssemblyInfo.cs
+C:/Documents and Settings/kamil/Documents/Projects/mainprojects/Lunar-Astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.csproj.CopyComplete
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.API.deps.json
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.API.runtimeconfig.json
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.API.runtimeconfig.dev.json
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.API.dll
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.API.pdb
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.Core.dll
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.Infrastructure.dll
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.Core.pdb
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/bin/Debug/netcoreapp2.0/Lunar.Astrofun.Infrastructure.pdb
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.csprojAssemblyReference.cache
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.csproj.CoreCompileInputs.cache
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.AssemblyInfoInputs.cache
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.AssemblyInfo.cs
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.csproj.CopyComplete
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.dll
+/home/kamil/Projects/netcore/lunar-astrofun/lunar-astrofun/Lunar-Astrofun-API/obj/Debug/netcoreapp2.0/Lunar.Astrofun.API.pdb
